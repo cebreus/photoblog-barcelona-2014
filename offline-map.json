@@ -1,0 +1,56 @@
+{
+  "version": 3,
+  "plannerVersion": 1,
+  "snapshotId": "7dadc7739198dc433bd88f720fc005e607c554745891af92cbd2e1d15f36892c",
+  "gallery": "barcelona-2014",
+  "updatedAt": "2026-10-09T19:26:44.253Z",
+  "locationsSha256": "a6b437654c8228884d4d04f413287835a8f83473c19fcd3be3a75d863f86f05d",
+  "byZoom": {
+    "0": 1,
+    "1": 4,
+    "2": 16,
+    "3": 64,
+    "4": 256,
+    "5": 1024,
+    "6": 19,
+    "7": 25,
+    "8": 27,
+    "9": 33,
+    "10": 33,
+    "11": 94,
+    "12": 114,
+    "13": 140,
+    "14": 313,
+    "15": 445,
+    "16": 601,
+    "17": 876
+  },
+  "layers": {
+    "street": {
+      "format": "png",
+      "extension": "png",
+      "mimeType": "image/png",
+      "path": "map-tiles-street",
+      "attribution": "© CARTO; © OpenStreetMap contributors",
+      "offlinePermissionEvidence": "Technical trial authorised by the repository owner on 2026-07-24; provider licence remains pending; do not commit or distribute.",
+      "sourceId": "carto-voyager-legacy-trial",
+      "maxZoom": 17,
+      "expected": 4085,
+      "sha256": "da96807d51c505ebc990734ef69adbb267012ede8849e33d68899c7a6d0903a1",
+      "acquiredAt": "2026-10-09T19:26:44.253Z"
+    },
+    "satellite": {
+      "format": "jpeg",
+      "extension": "jpg",
+      "mimeType": "image/jpeg",
+      "path": "map-tiles-satellite",
+      "attribution": "© Esri — Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community",
+      "offlinePermissionEvidence": "Technical trial authorised by the repository owner on 2026-07-24; provider licence remains pending; do not commit or distribute.",
+      "sourceId": "esri-world-imagery-legacy-trial",
+      "maxZoom": 16,
+      "expected": 3209,
+      "sha256": "b3b3e1c51c336d450b5dc48d73e004462202e78de042419cf01f5f476c0f1bf6",
+      "acquiredAt": "2026-10-09T19:26:44.253Z"
+    }
+  }
+}
